@@ -1,0 +1,16 @@
+name: wcath-demo
+type: wordpress
+docroot: ""
+php_version: "8.2"
+webserver_type: apache-fpm
+xdebug_enabled: false
+additional_hostnames: []
+project_tld: localhost
+database:
+    type: mariadb
+    version: "10.1"
+use_dns_when_possible: true
+disable_settings_management: true
+composer_version: "2"
+nodejs_version: "22"
+web_environment: []
