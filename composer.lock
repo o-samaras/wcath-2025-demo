@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0bce283f7989bd9dc714beef5b21c3f4",
+    "content-hash": "c0ec9b235d0bf1eb6e44d3c6ca2b4afa",
     "packages": [
         {
             "name": "composer/installers",
@@ -352,22 +352,22 @@
             "homepage": "https://wordpress.org/plugins/woocommerce/"
         },
         {
-            "name": "wpackagist-theme/twentytwentyfive",
-            "version": "1.3",
+            "name": "wpackagist-theme/storefront",
+            "version": "4.6.1",
             "source": {
                 "type": "svn",
-                "url": "https://themes.svn.wordpress.org/twentytwentyfive/",
-                "reference": "1.3"
+                "url": "https://themes.svn.wordpress.org/storefront/",
+                "reference": "4.6.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/twentytwentyfive.1.3.zip"
+                "url": "https://downloads.wordpress.org/theme/storefront.4.6.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/twentytwentyfive/"
+            "homepage": "https://wordpress.org/themes/storefront/"
         }
     ],
     "packages-dev": [],
