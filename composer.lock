@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2f29bdc03352b1b8a03e32e66c7c24c6",
+    "content-hash": "0bce283f7989bd9dc714beef5b21c3f4",
     "packages": [
         {
             "name": "composer/installers",
@@ -334,22 +334,22 @@
             "time": "2025-09-30T18:16:31+00:00"
         },
         {
-            "name": "wpackagist-plugin/wordpress-seo",
-            "version": "26.1.1",
+            "name": "wpackagist-plugin/woocommerce",
+            "version": "10.2.2",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/26.1.1"
+                "url": "https://plugins.svn.wordpress.org/woocommerce/",
+                "reference": "tags/10.2.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.26.1.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/woocommerce.10.2.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/wordpress-seo/"
+            "homepage": "https://wordpress.org/plugins/woocommerce/"
         },
         {
             "name": "wpackagist-theme/twentytwentyfive",
