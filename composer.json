@@ -49,11 +49,7 @@
       "@move-wp-config",
       "@cleanup"
     ],
-    "move-wp-config": [
-      "php -r \"file_exists('wp-config.php') || copy('wp/wp-config-sample.php', 'wp-config.php');\""
-    ],
-    "cleanup": [
-      "rm -rf ./wp/wp-content"
-    ]
+    "move-wp-config": "@php -r \"file_exists('wp-config.php') || copy('wp/wp-config-sample.php', 'wp-config.php');\"",
+    "cleanup": "rm -rf ./wp/wp-content"
   }
 }
