@@ -47,3 +47,6 @@ and there's no need for you to take further actions.
 - [DDEV](https://docs.ddev.com/en/stable/)
 - [Using Composer with DDEV](https://ddev.com/blog/getting-started-with-ddev-and-composer/)
 - [How to clone a GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) 
+
+## Contributing
+Found something that's off or want to improve this? Issues and PRs are more than welcome!
